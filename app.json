@@ -11,22 +11,23 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Jinwoo session id here; must start with MALVIN-XD~",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=enJw0YLA#D9ELTaWoTq_KWFyEbNFfEQjcza0d7QCU_zwJSeRVYcw",
+      "value": "",nter your Jinwoo session id here; must start with MALVIN-XD~",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "SIPRAMODS",
       "value": "ᴊɪɴᴡᴏᴏ-ʙᴏᴛ",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 2637xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g 923xxxxxxxx",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "Hacker",
       "value": "",
       "required": true
     },
